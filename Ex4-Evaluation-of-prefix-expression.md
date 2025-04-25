@@ -68,6 +68,7 @@ printf("%d",pop());
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/26c180b4-5fd8-4867-812f-53d795d0d9c5)
 
 
 
