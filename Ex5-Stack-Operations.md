@@ -1,5 +1,5 @@
 # Ex5 Stack Operations
-## DATE:
+## DATE: 28/02/2025
 ## AIM:
 To write a C function to perform push and pop operation of the stack in the infix to postfix conversion.
 
@@ -33,6 +33,7 @@ char pop()
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/59341887-7ef7-424d-a6a0-f5ba67277f5d)
 
 
 ## Result:
