@@ -19,7 +19,6 @@ Program to implement Tower of Hanoi
 Developed by: 
 RegisterNumber:  
 */
-```
 #include<stdio.h>
 void TOH(int n,char x,char y,char z)
 {
@@ -38,7 +37,7 @@ int main()
     scanf("%d", &n);
     TOH(n ,'A', 'B' , 'C');
 }
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/78c4bd36-94a8-4b60-a10e-eb26dda484e7)
 
